@@ -136,7 +136,7 @@ Prediction: Person is likely DIABETIC
 
 ## 👤 Author
 
-**Rishon**
+** V Rishon Anand**
 Machine Learning Student | AIML
 Learning ML from scratch with a focus on strong fundamentals
 
