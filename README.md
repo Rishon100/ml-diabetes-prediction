@@ -75,7 +75,7 @@ ml-diabetes-prediction/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <your-github-repo-link>
+git clone <https://github.com/Rishon100/ml-diabetes-prediction.git>
 cd ml-diabetes-prediction
 ```
 
